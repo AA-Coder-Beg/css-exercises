@@ -1,13 +1,13 @@
-Click-Me {
+.Click-Me {
     font-size: 28px;
     font-family: Helvetica, 'Times New Roman', sans-serif;
 }
 
-Button-1 {
+.Button-1 {
     background-color: black;
     color: white;
 }
 
-Button-2 {
+.Button-2 {
     color: yellow;
 }
