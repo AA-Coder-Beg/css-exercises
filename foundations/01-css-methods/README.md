@@ -21,4 +21,4 @@ The properties you need to add to each element are:
 - Does the `button` element have CSS added via the inline method? [X] Yes || [] No
 
 ## My Outcome
-![My Outcome] (./My Outcome.png)
+![My Outcome](./My Outcome.png)
